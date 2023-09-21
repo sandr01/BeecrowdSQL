@@ -1,1 +1,1 @@
-Alguns dos problema do site Beecrowd resolvidos.
+Alguns dos problema do site Beecrowd.com.br resolvidos.
