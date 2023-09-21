@@ -1,1 +1,1 @@
-Alguns dos problema do site Beecrowd.com.br resolvidos.
+Alguns dos problemas sobre SQL do site Beecrowd.com.br resolvidos.
